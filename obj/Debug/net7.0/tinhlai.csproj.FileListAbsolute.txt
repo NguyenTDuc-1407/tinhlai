@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\tinhlai\bin\Debug\net7.0\tinhlai.exe
+C:\Users\ASUS\Desktop\tinhlai\bin\Debug\net7.0\tinhlai.deps.json
+C:\Users\ASUS\Desktop\tinhlai\bin\Debug\net7.0\tinhlai.runtimeconfig.json
+C:\Users\ASUS\Desktop\tinhlai\bin\Debug\net7.0\tinhlai.dll
+C:\Users\ASUS\Desktop\tinhlai\bin\Debug\net7.0\tinhlai.pdb
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.dll
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\refint\tinhlai.dll
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.pdb
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\tinhlai.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\tinhlai\obj\Debug\net7.0\ref\tinhlai.dll
